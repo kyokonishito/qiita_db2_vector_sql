@@ -1,0 +1,5 @@
+database=<db名>
+hostname=<host名またはIPアドレス>
+port=<port番号>
+uid=<Db2接続userid>
+pwd=<password>
